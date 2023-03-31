@@ -1,0 +1,36 @@
+:root {
+  --primary-brand: #4d5ae5;
+  --pressed-state: #404bbf;
+  --dark: #2e2f42;
+  --text: #434455;
+  --white: #ffffff;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--dark);
+  background-color: var(--white);
+}
+.link {
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+.contacts {
+  font-style: normal;
+}
+.header-logo {
+  font-family: "Raleway";
+
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.7;
+
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color:var(--primary-brand);
+}
+.header-logo-span {
+color: var(--dark);
+}
