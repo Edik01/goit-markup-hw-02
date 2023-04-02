@@ -4,6 +4,14 @@
   --dark: #2e2f42;
   --text: #434455;
   --white: #ffffff;
+  --success: #31D0AA;
+  --subtle-text: #8E8F99; 
+  --accent: #E7E9FC; 
+  --light: #F4F4FD; 
+  --modal-overlay: #2E2F42; 
+  --hero-background: #2E2F42;
+  --white-background: #FFFFFF;
+  --modal-background: #FCFCFC; 
 }
 body {
   font-family: "Roboto", sans-serif;
